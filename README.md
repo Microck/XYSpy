@@ -1,7 +1,6 @@
 # Xianyu/Goofish Product Monitor Bot
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This Python script automatically monitors search results on Xianyu/Goofish (Taobao's secondhand marketplace) for specified products and notifies you via Telegram when new items are found.
 
