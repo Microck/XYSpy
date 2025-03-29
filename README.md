@@ -132,7 +132,7 @@ This Python script automatically monitors search results on Xianyu/Goofish (Taob
 
 ## License
 
-Copyright (c) [year] [fullname] - All Rights Reserved
+Copyright (c) 2025 Microck - All Rights Reserved
 
 This project is provided under a custom license. Please see the `LICENSE` file for details.
 
