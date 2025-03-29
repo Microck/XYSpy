@@ -56,8 +56,8 @@ This Python script automatically monitors search results on Xianyu/Goofish (Taob
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone https://github.com/Microck/XYSpy
+    cd XYSpy
     ```
 2.  **Install Python Requirements:**
     ```bash
@@ -66,7 +66,7 @@ This Python script automatically monitors search results on Xianyu/Goofish (Taob
 3.  **Install ChromeDriver:** The `webdriver-manager` library *should* handle this automatically the first time Selenium needs it. If you encounter issues, you might need to manually download ChromeDriver matching your installed Chrome version and ensure it's in your system's PATH or specify its path.
 4.  **Configure `config.json`:**
     *   Create a file named `config.json` in the same directory as `monitoring.py`.
-    *   Copy the following template and **replace the placeholder values** with your actual information:
+    *   Copy the following template and **replace the placeholder values** with your actual information or use the downloaded file:
         ```json
         {
           "SEARCH_QUERIES": ["your search term 1", "your search term 2"],
@@ -132,7 +132,19 @@ This Python script automatically monitors search results on Xianyu/Goofish (Taob
 *   Implement more sophisticated anti-detection techniques.
 *   Add more robust error handling and retry logic.
 *   Create a simple UI for configuration instead of editing `config.json`.
+*   Figure out how to set it up headless without Xianyu/Goofish blocking the instance.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details (or add your preferred license).
+Copyright (c) [year] [fullname] - All Rights Reserved
+
+This project is provided under a custom license. Please see the `LICENSE` file for details.
+
+**Key restrictions include:**
+*   Use and modification are permitted for **personal, non-commercial purposes only**.
+*   **Redistribution** of the software (modified or unmodified) is **prohibited**.
+*   **Selling** or sublicensing the software is **prohibited**.
+*   Use for **any commercial purpose** is **prohibited**.
+
+Refer to the full `LICENSE` file for the complete terms.
+
