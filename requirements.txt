@@ -1,0 +1,16 @@
+# Browser automation
+selenium==4.12.0
+undetected-chromedriver==3.5.4
+webdriver-manager==4.0.1
+
+# Captcha solving
+python-anticaptcha==1.0.0
+anticaptchaofficial==1.0.28
+
+# Telegram integration
+python-telegram-bot==13.15
+
+# Utilities
+requests==2.31.0
+python-dateutil==2.8.2
+pillow==10.0.1
