@@ -47,9 +47,6 @@ This Python script automatically monitors search results on Xianyu/Goofish (Taob
     webdriver-manager
     python-telegram-bot
     anticaptchaofficial
-    psutil
-    ```
-    *(Note: `psutil` is only needed for the separate `ram_monitor.py` script, not essential for the main bot)*
 
 ## Setup
 
