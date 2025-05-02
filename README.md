@@ -5,6 +5,10 @@
 
 This Python script automatically monitors search results on Xianyu/Goofish (Taobao's secondhand marketplace) for specified products and notifies you via Telegram when new items are found.
 
+<img src="data/xyexample.jpg" alt="Examples" style="width: 100%; height: auto;">
+
+---
+
 ## Core Functionality
 
 *   **Automated Monitoring:** Periodically searches Xianyu/Goofish for queries listed in `search_queries.txt`.
