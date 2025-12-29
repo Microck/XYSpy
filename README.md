@@ -1,3 +1,7 @@
+> **This project is archived and no longer maintained.** It may be outdated or incompatible with current dependencies.
+
+---
+
 # 🇨🇳 XYSpy 🕵️
 ## Xianyu/Goofish Product Monitor Bot
 
